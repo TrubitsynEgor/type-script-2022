@@ -1,0 +1,4 @@
+enum ShapeKind {
+	Circle,
+	Square,
+}
