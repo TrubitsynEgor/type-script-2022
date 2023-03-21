@@ -26,10 +26,10 @@ type Vehicle = {
 	year: Date,
 	brand: string,
 }
-type TCar = {
+type TCar = Product & Vehicle & {
 	type: string,
 	model: string,
-} & IProduct & IVehicle
+}
 
 
 
