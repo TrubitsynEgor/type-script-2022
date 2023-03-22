@@ -14,5 +14,3 @@ function printPcCatalog(pcCatalog) {
 const p = {
     screen: window.screen
 };
-
-

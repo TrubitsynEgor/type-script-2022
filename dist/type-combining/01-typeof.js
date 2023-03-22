@@ -9,5 +9,3 @@ let n; // let n: string
 const max = (...numbers) => Math.max(...numbers);
 // То Есть мы говорим вот тебе функция определи какой это тип и какой тип она return
 // И таким образом наш новый alias будет равен ВОЗВРАЩАЕМОМУ значению нашей function average [number]
-
-
